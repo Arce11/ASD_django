@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.section-title {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    box-sizing: border-box;
+    color: #43A047;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: oblique;
+    /* text-shadow: -1px -1px 0 #000000, 1px -1px #000000, -1px 1px 0 #43A047, 1px 1px 0 #000000; */
+}
+
+.section-subtitle {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: italic;
+}
+
+#chat-log {
+    width: 100%;
+}
+
+#chat-message-submit {
+    width: 100%;
+}
